@@ -8,5 +8,6 @@ namespace TestAutoVersioning
 {
     internal class File23
     {
+        //test
     }
 }
