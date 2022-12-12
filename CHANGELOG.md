@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="4.5.9"></a>
+## [4.5.9](https://www.github.com/PMihMAN/TestAutoVersioning/releases/tag/v4.5.9) (2022-12-12)
+
+### Bug Fixes
+
+* Hello world 42 ([67f83b3](https://www.github.com/PMihMAN/TestAutoVersioning/commit/67f83b31cbf5121dabb430baab55f256497d9720))
+
+### Other
+
+* Merge branch 'master' of https://github.com/PMihMAN/TestAutoVersioning ([7be4a8e](https://www.github.com/PMihMAN/TestAutoVersioning/commit/7be4a8edb139e57c41f2426391ad6197797f80fe))
+
 <a name="4.5.8"></a>
 ## [4.5.8](https://www.github.com/PMihMAN/TestAutoVersioning/releases/tag/v4.5.8) (2022-12-12)
 
